@@ -1,0 +1,12 @@
+# Derleme çıktıları
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Kayıtlı yüz fotoğrafları (kişisel veri - GitHub'a yüklenmez)
+TrainedFaces/
